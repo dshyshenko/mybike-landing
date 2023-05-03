@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+#MyBike landing page
+1.The MyBike landing page is a business card site for bicycle shops.
+2. I use HTML, CSS, Sass
+    - [DEMO LINK](https://dshyshenko.github.io/<repo_name>/)
+    - [MyBike](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&t=MMxaozgKkeNz03Rh-0)
